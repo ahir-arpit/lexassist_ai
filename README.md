@@ -141,12 +141,6 @@ streamlit run frontend/app_ui.py
 
 ---
 
-## 📸 Screenshots
-
-> *Coming soon — UI screenshots and demo GIFs*
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
