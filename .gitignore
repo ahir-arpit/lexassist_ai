@@ -1,0 +1,71 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Large binary / model files
+*.dll
+*.exe
+*.pyd
+*.so
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.pkl
+*.h5
+*.weights
+*.model
+
+# Data / uploads (if sensitive)
+uploads/
+data/raw/
+*.csv
+*.json.bak
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Node
+node_modules/
+
+# Temp
+tmp/
+temp/
