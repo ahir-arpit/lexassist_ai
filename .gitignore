@@ -20,6 +20,9 @@ __pycache__/
 # Logs
 *.log
 logs/
+*.db
+*.sqlite
+*.sqlite3
 
 # OS files
 .DS_Store
@@ -58,10 +61,17 @@ uploads/
 data/raw/
 *.csv
 *.json.bak
+*.local
+instance/
 
-# Jupyter
 .ipynb_checkpoints/
 *.ipynb
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.pyre/
+.python-version
 
 # Node
 node_modules/
